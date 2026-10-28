@@ -1,0 +1,20 @@
+{
+  "name": "Bella Staff — design preview (sample data)",
+  "short_name": "Bella Staff",
+  "description": "A design preview of Bella Clinic's staff app by O2 Design Studio. Sample data only; nothing is sent or saved.",
+  "id": "/bella-clinic-study/staff-app/",
+  "start_url": "/bella-clinic-study/staff-app/today",
+  "scope": "/bella-clinic-study/staff-app/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "th",
+  "dir": "ltr",
+  "background_color": "#F8FAF7",
+  "theme_color": "#173C31",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "/bella-clinic-study/staff-app/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/bella-clinic-study/staff-app/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/bella-clinic-study/staff-app/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
